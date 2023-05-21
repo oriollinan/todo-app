@@ -11,7 +11,10 @@ In order for this project to work:
  cd back
  npm i
  npm start
- cd ../front
+```
+
+```
+ cd front
  npm i
  npm start
 ```
